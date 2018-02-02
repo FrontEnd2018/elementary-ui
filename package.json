@@ -1,0 +1,19 @@
+{
+  "name": "elementary-user-interface",
+  "version": "1.0.0",
+  "description": "This package gives you the UI elements with some extent of configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontEnd2018/elementary-ui.git"
+  },
+  "author": "Ujjwal Jain, Varun Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontEnd2018/elementary-ui/issues"
+  },
+  "homepage": "https://github.com/FrontEnd2018/elementary-ui#readme"
+}
